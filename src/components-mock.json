@@ -1,11 +1,22 @@
 {
-    "vertical_cards": [
+    "horizontal_cards": [
         {
-            "title": "Vertical Card",
+            "title": "Horizontal Card",
             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vulputate sodales consectetur. Aliquam rutrum risus sed lacus varius, nec iaculis turpis pharetra. Ut bibendum sodales massa vel placerat. Etiam dolor dolor, tempor non magna id, varius elementum orci. Suspendisse a massa sed mi laoreet venenatis id nec eros. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec aliquet enim ac varius blandit. Nullam est purus, consectetur ac leo nec, ullamcorper imperdiet mauris. Donec consectetur dolor sapien, vel congue lacus commodo ut. Nam tristique posuere ultricies. Suspendisse id arcu at lectus cursus feugiat. Donec non dui a risus rutrum fringilla. Curabitur bibendum ullamcorper nisi, nec aliquam tellus aliquam sit amet. Nunc sed augue dolor. Nullam at vehicula neque. Ut bibendum sodales massa vel placerat. Etiam dolor dolor, tempor non magna id, varius elementum orci. Suspendisse a massa sed mi laoreet venenatis id nec eros. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec aliquet enim ac varius blandit. Nullam est purus, consectetur ac leo nec, ullamcorper imperdiet mauris. Donec consectetur dolor sapien, vel congue lacus commodo ut.",
             "image": {
                 "url": "https://images.unsplash.com/photo-1657299170207-d6df52b27811?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
                 "alt": "Imagem de mesa com legumes"
+            },
+            "publishDate": "17 de agosto de 2022"
+        }
+    ],
+    "cards": [
+        {
+            "title": "Card",
+            "content": "Componente Card. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vulputate sodales consectetur. Aliquam rutrum risus sed lacus varius, nec iaculis turpis pharetra. Ut bibendum sodales massa vel placerat. Etiam dolor dolor, tempor non magna id, varius elementum orci. Suspendisse a massa sed mi laoreet venenatis id nec eros. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec aliquet enim ac varius blandit. Nullam est purus, consectetur ac leo nec, ullamcorper imperdiet mauris. Donec consectetur dolor sapien, vel congue lacus commodo ut. Nam tristique posuere ultricies. Suspendisse id arcu at lectus cursus feugiat. Donec non dui a risus rutrum fringilla. Curabitur bibendum ullamcorper nisi, nec aliquam tellus aliquam sit amet. Nunc sed augue dolor. Nullam at vehicula neque. Ut bibendum sodales massa vel placerat. Etiam dolor dolor, tempor non magna id, varius elementum orci. Suspendisse a massa sed mi laoreet venenatis id nec eros. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec aliquet enim ac varius blandit.",
+            "image": {
+                "url": "https://images.unsplash.com/photo-1616933067642-ac31e646d4f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+                "alt": "Imagem de floresta e lago"
             },
             "publishDate": "17 de agosto de 2022"
         }

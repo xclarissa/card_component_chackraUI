@@ -13,7 +13,7 @@ export interface CardProps {
   };
 }
 
-export function VerticalCard({ card }: CardProps) {
+export function HorizontalCard({ card }: CardProps) {
   const { image, publishDate, title, content } = card;
   return (
     <Flex maxW="850px" maxH="400px" borderRadius="8px" bg="gray.100">
