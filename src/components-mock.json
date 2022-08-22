@@ -20,5 +20,12 @@
             },
             "publishDate": "17 de agosto de 2022"
         }
+    ],
+    "card_without_image": [
+        {
+            "title": "Card sem imagem",
+            "content": "Componente card sem imagem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vulputate sodales consectetur. Aliquam rutrum risus sed lacus varius, nec iaculis turpis pharetra. Ut bibendum sodales massa vel placerat. Etiam dolor dolor, tempor non magna id, varius elementum orci. Suspendisse a massa sed mi laoreet venenatis id nec eros. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec aliquet enim ac varius blandit. Nullam est purus, consectetur ac leo nec, ullamcorper imperdiet mauris. Donec consectetur dolor sapien, vel congue lacus commodo ut. Nam tristique posuere ultricies. Suspendisse id arcu at lectus cursus feugiat. Donec non dui a risus rutrum fringilla. Curabitur bibendum ullamcorper nisi, nec aliquam tellus aliquam sit amet. Nunc sed augue dolor. Nullam at vehicula neque. Ut bibendum sodales massa vel placerat. Etiam dolor dolor, tempor non magna id, varius elementum orci. Suspendisse a massa sed mi laoreet venenatis id nec eros. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec aliquet enim ac varius blandit.",
+            "publishDate": "17 de agosto de 2022"
+        }
     ]
 }
